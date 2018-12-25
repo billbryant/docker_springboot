@@ -98,12 +98,12 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
-                     <repository>
-            <id>spring-milestones</id>
-            <name>Spring Milestones</name>
+        <repository>
+            <id>spring-aliyun</id>
+            <name>Spring Aliyun</name>
             <url>http://maven.aliyun.com/nexus/content/groups/public</url>
             <snapshots>
-                <enabled>false</enabled>
+                <enabled>true</enabled>
             </snapshots>
         </repository>
     </repositories>
